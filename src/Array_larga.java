@@ -11,7 +11,7 @@ public class Array_larga {
         for (int i : Matriz_aleatoreos) {
             
             System.out.println(cont + ": " + i);
-            cont ++;
+            cont = cont + 1;
         }
     }
     
