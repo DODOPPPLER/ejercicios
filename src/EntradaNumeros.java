@@ -13,7 +13,7 @@ public class EntradaNumeros {
 
         double x = 10000.0;
 
-        System.out.printf("%1.5f", x/3);
+        System.out.printf("%1.2f", x/3);
 
 
     }
